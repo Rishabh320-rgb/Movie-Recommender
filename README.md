@@ -3,10 +3,12 @@
 A web app that recommends similar movies based on genres. Built with Python, scikit-learn and Streamlit.
 
 ## 📌 Overview
+
+Pick a movie you like and the app suggests similar ones, ranked by a match percentage. It uses content-based filtering: movies are compared by their genres.
+
 🔗 **Live demo:** https://movie-recommender-3spmnjubpq6qxsl6m9skha.streamlit.app/
 
 *(If the app is asleep, click "Yes, get this app back up!" and wait about 30 seconds.)*
-Pick a movie you like and the app suggests similar ones, ranked by a match percentage. It uses content-based filtering: movies are compared by their genres.
 
 ## 📊 Project at a Glance
 | Metric | Value |
