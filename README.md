@@ -14,6 +14,8 @@ Pick a movie you like and the app suggests similar ones, ranked by a match perce
 | Average genres per movie | 2.3 |
 | Recommendations per search | 3 to 12 (adjustable) |
 | Technique | Content-based filtering (cosine similarity) |
+🔗 **Live demo:** https://movie-recommender-3spmnjubpq6qxsl6m9skha.streamlit.app/
+*(If the app is asleep, click "Yes, get this app back up!" and wait about 30 seconds.)*
 
 ## ✨ Features
 - Search or choose from 9,742 movies
