@@ -61,6 +61,10 @@ Then open http://localhost:8501 in your browser.
 ## 📊 Dataset
 [MovieLens](https://grouplens.org/datasets/movielens/) (ml-latest-small), provided by GroupLens Research, University of Minnesota.
 
+##Note
+Live demo: <your-app-link>
+(If the app is asleep, click "Yes, get this app back up!" and wait about 30 seconds.)
+
 ## 👤 Author
 **Rishabh Shukla**
 [GitHub](https://github.com/Rishabh320-rgb) · [LinkedIn](https://www.linkedin.com/in/rishabh-shukla-4673323a2)
